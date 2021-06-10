@@ -1,9 +1,9 @@
 ## OpenCV-Image Processing
+#### **MLOps Summer Internship** 👨🏻‍💻 
 #
-### **MLOps Summer Internship** 👨🏻‍💻 
-#
+
+* Task Description 📄
 ```
-** ####Task Description 📄
 🔅 Task 4.1
 📌 Create image by yourself Using Python Code 
 
